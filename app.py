@@ -4,7 +4,7 @@ import requests
 app = Flask(__name__)
 
 # Replace with your actual Abstract API token
-ABSTRACT_API_TOKEN = "d368ba0dd7854a5785ab973b544418ef"
+ABSTRACT_API_TOKEN = "d368ba0dd7854a5785a544418ef"
 API_URL = "https://phonevalidation.abstractapi.com/v1/?"
 
 # HTML template with improved UI for the home page
