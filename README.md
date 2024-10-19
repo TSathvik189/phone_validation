@@ -3,14 +3,14 @@
 This project is a Flask application that allows users to validate phone numbers using the Phone Validation API.
 
 ## Technologies Used
-  -Flask (Python)
-  -Jsonify for converting data to json format
-  -requests library to handle API requests
-  -Docker for containerization
+  - Flask (Python)
+  - Jsonify for converting data to json format
+  - requests library to handle API requests
+  - Docker for containerization
 
 ## Prerequisites
-  -Docker installed on your machine.
-  -Phone Number Validation API key from app.abstractapi.com
+  - Docker installed on your machine.
+  - Phone Number Validation API key from app.abstractapi.com
 
 ## Getting Started
 1. Clone the repository:
